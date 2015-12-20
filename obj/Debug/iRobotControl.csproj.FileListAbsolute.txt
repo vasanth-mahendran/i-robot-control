@@ -1,0 +1,3 @@
+C:\Users\Sivasubramanian\Desktop\iRobotControl\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Sivasubramanian\Desktop\iRobotControl\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Sivasubramanian\Desktop\iRobotControl\obj\Debug\BodyBasics-WPF.pdb
